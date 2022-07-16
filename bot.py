@@ -9,7 +9,7 @@ def start(updater,context):
  updater.message.reply_text('''Hi iam social mechanic 
 
  
- Made with Love ❤️ by @social_mechanic_1997
+ Created by @social_mechanic_1997
 
   ''')
 def help(updater,context):
